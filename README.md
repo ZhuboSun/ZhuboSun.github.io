@@ -7,3 +7,4 @@ Create a new branch is quick.
 
 
 
+#master分支修改内容：crating a new branch is quick & simple

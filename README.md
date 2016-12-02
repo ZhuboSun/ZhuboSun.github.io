@@ -23,3 +23,6 @@ LIMIT_TRANS_NO_REPEAT(40162,"限额占用流水号重复"),
 
 
 com.egfbank.platform:openplat-trade-platform:pom:1.0-SNAPSHOT 
+
+
+#这是在 isuue101分支进行的修改。
